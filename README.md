@@ -44,10 +44,10 @@
         - [Common Error](./src/symfony/Error/error.md) 常见错误  
               
    	- [Config](src/symfony/Config/firewall.md) 配置
-        - [Firewall Config](./src/symfony/Config/firewall.md) 防火墙配置    
+        - [Firewall Config](./src/symfony/Config/firewall.md) 防火墙配置  
             
    	- [Controller](src/symfony/Controller/controller.md) 控制器
-        - [Controller Base](./src/symfony/Controller/controller.md) 控制器常用操作        
+        - [Controller Base](./src/symfony/Controller/controller.md) 控制器常用操作      
         - [Request Type](./src/symfony/Controller/Repository.md) 请求方式      
         
    	- [Guzzle](src/symfony/Guzzle/Guzzle.md) Guzzle HTTP客户端

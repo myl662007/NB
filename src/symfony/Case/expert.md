@@ -129,3 +129,8 @@
                 $response->headers->set('Content-Disposition', $dispositionHeader);
                 return $filename;
             }
+        
+    - 合并单月格
+            
+            $sheet->setMergeCells(['A1:D1']);
+            $sheet->setMergeCells(['A1:A8']);

@@ -16,3 +16,9 @@
 >old_id=1修改为new_id=2 进行相应的修改其他表中的user_id,其他表user_id=2
 >old_id=2修改为new_id=4,进行相应的修改其他表中的user_id,就会覆盖掉
 
+服务器上创建文件遇到的问题：
+    
+    路径一定要写绝对路径，匹配到项目下：
+     $root = $this->container->get('kernel')->getRootDir();
+     $root = $this->get('kernel')->getRootDir();   //app下
+     $root = $this->get('kernel')->getProjectDir() //项目下
