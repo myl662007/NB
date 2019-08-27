@@ -141,6 +141,10 @@
     - [List](./src/Redis/list.md) 列表实现队列和栈的性能
     - [Study URL](./src/Redis/list.md) redis学习地址
 
+15. [English](english/read.md)
+    - [daily sentence](./english/daily_sentence.md) 每日一句
+    - [Word](./english/word.md) 词汇
+
 
 
 
