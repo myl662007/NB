@@ -14,3 +14,10 @@
 - 压缩
 
         zip ***.zip ***.sql
+
+- 查看日志如何定位：
+        
+        cat /var/log/secure|grep "Nov 11“
+- 查看文件的行数
+    
+        wc -l httppost.log
