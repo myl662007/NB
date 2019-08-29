@@ -40,3 +40,6 @@
 - 更新enity中的set和get
       
       php bin/console doctrine:generate:entities SchedulingBundle
+- 创建数据库
+        
+      php bin/console doctrine:database:create
