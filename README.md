@@ -111,7 +111,7 @@
         - [String](src/Go/Base/string.md) 字符串
         - [Slice](src/Go/Base/slice.md) 切片 --20190819
         - [Date](src/Go/Base/date.md) 时间和日期函数 --20190820
-        - [Date](src/Go/Base/array.md) 数组 --20190820
+        - [Array](src/Go/Base/array.md) 数组 --20190820
         - [Process Control](src/Go/Base/processControl.md) 流程控制
    
     - [Function](src/Go/Base/base.md "document") 函数

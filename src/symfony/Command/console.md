@@ -29,9 +29,14 @@
       
       php bin/console doctrine:schema:update --force
       
+      //多库
+      php bin/console doctrine:schema:update --force  --em=oa
+      
 - 更新列表
       
       php bin/console doctrine:fixture:load --append
+      
+      //首先在 MenuFixtures 中添加列表，然后执行命令
 
 - 创建数据库和数据表（生成entity和Repository）
     
@@ -43,3 +48,6 @@
 - 创建数据库
         
       php bin/console doctrine:database:create
+      
+      //多库
+      php bin/console doctrine:database:create --connection=rtu
