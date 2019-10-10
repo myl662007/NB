@@ -148,6 +148,8 @@
 16. [health](health)
     - [eye](./health/ear/ear.md) 眼睛保护
 
-
+17. [java](src/Java/Read.md) 
+    - [Basic](src/Java/Base/base.md) 基础和常用
+        - [Basic](./src/Java/Base/base.md) 基础知识点
 
 
