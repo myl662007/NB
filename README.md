@@ -149,12 +149,9 @@
     - [eye](./health/ear/ear.md) 眼睛保护
 
 17. [java](src/Java/Read.md) 
-    - [Basic](src/Java/Base/base.md) 基础知识
-        - [Environment Variable](./src/Java/day01.md) 环境变量的配置
-        - [Annotation](./src/Java/day01.md) 注释
-        - [Keyword](./src/Java/day01.md) 关键字
-        - [Identifier](./src/Java/day01.md) 标识符
-        - [Constant](./src/Java/day01.md) 常量
+    - [Basic](src/Java/day01.md) 计算机基础知识
 	- [Language Foundation](src/Java/Base/base.md) Java语言基础
         - [Variable](./src/Java/day02.md) 变量
         - [Operator](./src/Java/day02.md) 运算符
+    - [Flow](src/Java/day03.md) 流程控制语句
+    - [Array](src/Java/day04.md) 数组
