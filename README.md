@@ -149,9 +149,14 @@
     - [eye](./health/ear/ear.md) 眼睛保护
 
 17. [java](src/Java/Read.md) 
-    - [Basic](src/Java/day01.md) 计算机基础知识
-	- [Language Foundation](src/Java/Base/base.md) Java语言基础
-        - [Variable](./src/Java/day02.md) 变量
-        - [Operator](./src/Java/day02.md) 运算符
-    - [Flow](src/Java/day03.md) 流程控制语句
-    - [Array](src/Java/day04.md) 数组
+    - [Basic](src/Java/day01.md) 基础知识
+        - [Language Foundation](src/Java/day02.md) 变量与运算符
+        - [Flow](src/Java/day03.md) 流程控制语句
+        - [Array](src/Java/day04.md) 数组
+        - [Array](src/Java/day05.md) 数组
+        - [Array](src/Java/day06.md) 数组
+        - [Array](src/Java/day07.md) 数组
+        - [Array](src/Java/day08.md) 数组
+        - [Array](src/Java/day09.md) 数组
+        - [Array](src/Java/day10.md) 数组
+        - [Array](src/Java/day11.md) 数组
