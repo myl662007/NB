@@ -151,12 +151,12 @@
 17. [java](src/Java/Read.md) 
     - [Basic](src/Java/day01.md) 基础知识
         - [Language Foundation](src/Java/day02.md) 变量与运算符
-        - [Flow](src/Java/day03.md) 流程控制语句
+        - [Process Control](src/Java/day03.md) 流程控制语句
         - [Array](src/Java/day04.md) 数组
-        - [Array](src/Java/day05.md) 数组
-        - [Array](src/Java/day06.md) 数组
-        - [Array](src/Java/day07.md) 数组
-        - [Array](src/Java/day08.md) 数组
-        - [Array](src/Java/day09.md) 数组
-        - [Array](src/Java/day10.md) 数组
-        - [Array](src/Java/day11.md) 数组
+        - [Object](src/Java/day05.md) 面向对象的思想
+        - [Create Object](src/Java/day06.md) 对象的创建、static
+        - [Object Extends](src/Java/day07.md) 面向对象继承
+        - [Object State](src/Java/day08.md) 多态、抽象、接口
+        - [Package](src/Java/day09.md) 包
+        - [Eclipse](src/Java/day10.md) eclipse
+        - [String](src/Java/day11.md) 字符串
