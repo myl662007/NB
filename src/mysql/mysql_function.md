@@ -5,3 +5,6 @@
         案例：
         $branchId = 5; $branchIdList = 1,2,3,4,55 
         find_in_set($branchId,$branchIdList)
+        
+        相关链接：https://blog.csdn.net/Liuboxx1/article/details/80693836
+
