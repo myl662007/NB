@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/mysql/mysql_function.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day01.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/day01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day02.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/day02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day03.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/day03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day04.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/day04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day05.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/day05.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +30,20 @@
     <session id="461561017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.0" value="28" />
-          <entry key="project.open.time.1" value="15" />
+          <entry key="project.open.time.1" value="16" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="56" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="309" />
+          <entry key="Markdown" value="310" />
           <entry key="PHP" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SQL" value="2" />
@@ -56,7 +52,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="9821" />
+          <entry key="Markdown" value="9928" />
           <entry key="PHP" value="22" />
           <entry key="SQL" value="3" />
         </counts>
@@ -64,13 +60,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="555">
-                <caret line="161" column="41" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
+              <first_editor relative-caret-position="459">
+                <caret line="95" column="49" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mysql/mysql_function.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/mysql/crud.md" />
         <option value="$PROJECT_DIR$/src/mysql/mysql_error.md" />
         <option value="$PROJECT_DIR$/src/git/composer_error.md" />
         <option value="$PROJECT_DIR$/src/PHP/time.md" />
@@ -161,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/Java/day04.md" />
         <option value="$PROJECT_DIR$/src/Java/day05.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/mysql/mysql_function.md" />
       </list>
     </option>
   </component>
@@ -182,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,13 +207,12 @@
               <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,14 +330,8 @@
       <workItem from="1569984532028" duration="2374000" />
       <workItem from="1570698871824" duration="1276000" />
       <workItem from="1570777972313" duration="1257000" />
-      <workItem from="1571298066426" duration="789000" />
-    </task>
-    <task id="LOCAL-00004" summary="note">
-      <created>1560421528435</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1560421528435</updated>
+      <workItem from="1571298066426" duration="810000" />
+      <workItem from="1571631432778" duration="188000" />
     </task>
     <task id="LOCAL-00005" summary="note">
       <created>1560421693143</created>
@@ -667,17 +669,24 @@
       <option name="project" value="LOCAL" />
       <updated>1570779011817</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="note">
+      <created>1571300040101</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1571300040101</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145086000" />
+    <option name="totallyTimeSpent" value="145295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.15384616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.19738752" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -731,7 +740,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="note" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/law/law.md" />
     <entry file="file://$PROJECT_DIR$/law/daily.md" />
     <entry file="file://$PROJECT_DIR$/src/service/crontab.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1161,8 +1169,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="555">
-            <caret line="161" column="41" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
+          <first_editor relative-caret-position="459">
+            <caret line="95" column="49" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/mysql_function.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>

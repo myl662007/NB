@@ -93,6 +93,7 @@
 	- [mysql Import and export](./src/mysql/mysql.md) 数据库导入导出操作
 	- [mysql Error](./src/mysql/mysql_error.md) 数据库常见错误
 	- [Import Field](./src/mysql/mysql_error.md) Table导出字段和注释
+	- [Mysql Function](./src/mysql/mysql_function.md) 数据库自带常用函数
 
 6.  [phpstorm](./src/phpstorm/phpstorm.md "phpstorm")
     - [phpstorm](./src/phpstorm/phpstorm.md) 快捷键
