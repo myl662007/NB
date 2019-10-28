@@ -65,7 +65,7 @@
     - [CSRF](./src/PHP/csrf_token.md) CSRF跨域请求
     - [CSRF](./src/PHP/terminology.md) 专业术语
     - [Time](./src/PHP/time.md) 常用时间段
-    - [IdNumber](./src/PHP/idnumber.md) 身份证的拆分
+    - [IdNumber](./src/PHP/idnumber.md) 身份证的拆分（踏踏实实干工作，人人真正写代码，端正态度）
 
 3.  [GIT](src/git/base.md "PHP")
      - [Basic](src/git/base.md) 基础和常用
