@@ -134,3 +134,7 @@
             
             $sheet->setMergeCells(['A1:D1']);
             $sheet->setMergeCells(['A1:A8']);
+
+    - 单元格剧中
+    
+            $sheet->getStyle('A1:M1')->getAlignment()->setHorizontal(\PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
