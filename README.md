@@ -128,8 +128,8 @@
         - [File Read](src/Go/File/read.md) 文件读操作
         - [File Write](src/Go/File/write.md) 文件写操作 
         
-    - [File](src/Go/Time)时间
-        - [File Read](src/Go/Time/time.md) 文件读操作  
+    - [Time](src/Go/Time)时间
+        - [Time](src/Go/Time/time.md) 文件读操作  
        
         
 9.  [Article](src/Linux/README.md "document") Chicken soup 鸡汤
