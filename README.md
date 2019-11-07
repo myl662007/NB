@@ -116,13 +116,22 @@
         - [Date](src/Go/Base/date.md) 时间和日期函数 --20190820
         - [Array](src/Go/Base/array.md) 数组 --20190820
         - [Process Control](src/Go/Base/processControl.md) 流程控制
+        - [Json](src/Go/Base/json.md) json序列号和反序列化
    
-    - [Function](src/Go/Base/base.md "document") 函数
+    - [Function](src/Go/Function/base.md "document") 函数
         - [Init](src/Go/Function/init.md) init函数
         - [Anonymity](src/Go/Function/anonymity.md) 匿名函数
         - [Bibao](src/Go/Function/bibao.md) 闭包
         - [Defer](src/Go/Function/defer.md) 延时机制
-      
+        
+    - [File](src/Go/File)文件操作
+        - [File Read](src/Go/File/read.md) 文件读操作
+        - [File Write](src/Go/File/write.md) 文件写操作 
+        
+    - [File](src/Go/Time)时间
+        - [File Read](src/Go/Time/time.md) 文件读操作  
+       
+        
 9.  [Article](src/Linux/README.md "document") Chicken soup 鸡汤
 	- [Chicken soup](./src/Article/ClassicSayings.md) 优秀励志语句      
 
