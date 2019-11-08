@@ -88,6 +88,7 @@
 	- [File Transmission](./src/Linux/UploadFile.md) 服务器文件和本地之间的传输
 	- [Crontab Set](./src/service/crontab.md) Linux定时任务
 	- [SSL Https](./src/service/ssl_https.md) SSL设置https协议
+	- [Shell](./src/Linux/shell.md) shell编程
 
 5.  [MYSQL](src/Linux/README.md "MYSQL") 
     - [mysql Import and export](./src/mysql/base.md) 数据库基本操作
