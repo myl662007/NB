@@ -165,7 +165,7 @@
     - [Basic](src/Java/day01.md) 基础知识
         - [Language Foundation](src/Java/day02.md) 变量与运算符
         - [Process Control](src/Java/day03.md) 流程控制语句
-        - [Array](src/Java/day04.md) 数组
+        - [Array](src/Java/array.md) 数组
         - [Object](src/Java/day05.md) 面向对象的思想
         - [Create Object](src/Java/day06.md) 对象的创建、static
         - [Object Extends](src/Java/day07.md) 面向对象继承
