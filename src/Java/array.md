@@ -17,6 +17,7 @@
 	    举例：
 		int[] a； 	定义了一个int类型的数组a；
 		int a[];		定义了一个int类型的a数组；
+		String[] a;
 		推荐使用第一种定义方式。
 
 
@@ -93,3 +94,32 @@
             int[][] arr = {{1,2,3},{4,5,6},{7,8,9}};
             int[][] arr = {{1,2,3},{5,6},{7}};
 
+- 数组的案例：
+        
+        public class HelloWorld {
+            public static void main(String []args) {
+                System.out.println("Hello World");
+        
+                //数组的定义1:
+                int[] scores = {78,93,97,84,63};
+                System.out.println("数组中的第二个成绩为:"+ scores[1]);
+        
+                //数组的定义2:
+                // int[] scores = new int[4]{78,93,97,84,63};
+                // System.out.println("数组中的第二个成绩为:"+ scores[3]);
+        
+                for (int i=0;i<scores.length ;i++ ) {
+                	System.out.println("数组中第"+(i+1)+"个元素是："+scores[1]);
+                }
+            }
+        }
+
+- Arrays类操作Java中的数组
+        
+        排序
+        Arrays.sort(scores);
+        
+        数组转为字符串
+        System.out.println(Arrays.toString(scores));
+
+        

@@ -7,3 +7,7 @@
         
         运行
         java HelloWord
+
+- Math方法
+
+        Math.random() 生成0-1的随机数
