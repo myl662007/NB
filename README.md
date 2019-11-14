@@ -162,16 +162,17 @@
     - [eye](./health/ear/ear.md) 眼睛保护
 
 17. [java](src/Java/Read.md) 
-    - [Basic](src/Java/day01.md) 基础知识
+    - [Basic](src/Java/Base) 基础知识
         - [Scanner](src/Java/scanner.md) 键盘录入
+        - [String](src/Java/string.md) 字符串
         - [Array](src/Java/array.md) 数组
+    - [Object](src/Java/Object)对象
         - [Object](src/Java/day05.md) 面向对象的思想
         - [Create Object](src/Java/day06.md) 对象的创建、static
         - [Object Extends](src/Java/day07.md) 面向对象继承
         - [Object State](src/Java/day08.md) 多态、抽象、接口
         - [Package](src/Java/day09.md) 包
         - [Eclipse](src/Java/day10.md) eclipse
-        - [String](src/Java/day11.md) 字符串
 
 18. [composer](src/Composer/composer.md)
     - [Comsoser Intalls](src/Composer/composer.md) 眼睛保护
