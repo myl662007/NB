@@ -67,44 +67,8 @@
     - [Time](./src/PHP/time.md) 常用时间段
     - [IdNumber](./src/PHP/idnumber.md) 身份证的拆分（踏踏实实干工作，人人真正写代码，端正态度）
     - [Retain Decimal](./src/PHP/retain_decimal.md) 保留两位小数的方法
- 
-3.  [GIT](src/git/base.md "PHP")
-     - [Basic](src/git/base.md) 基础和常用
-	 - [Crlf Error](./src/git/git_crlf.md) crlf报错解决
-	 - [Code Commit](./src/git/git_base.md) git代码提交
-	 - [Github Operation](./src/git/github.md) github常用操作
-	 - [Git Error](./src/git/composer_error.md) git常见错误
 
-4.  [Linux](src/Linux/README.md "Linux")
-    - [Base](./src/Linux/base.md) 基础知识
-	- [macdown](./src/Markdown-Syntax-CN-master/syntax.md) Macdown相关
-	- [Mac Shortcuts](src/Linux/mac_instruct.md) Mac常用快捷键
-	- [Mac Shortcuts](src/Linux/mac_connect_service_error.md) Mac连接服务器报错
-	- [MAMP](./src/service/mac_install_apache_php.md) Mac安装apache
-	- [MNMP](./src/service/mac_install_nginx_php.md) Mac安装nginx
-	- [LNMP](./src/Linux/install_lnmp.md) Linux安装nginx
-	- [LNMP](./src/service/ssh_login_service.md) 登陆服务器的shell脚本
-	- [LNMP](./src/service/Linux_install_rz.md) Linux安装支持rz和sz的服务
-	- [File Transmission](./src/Linux/UploadFile.md) 服务器文件和本地之间的传输
-	- [Crontab Set](./src/service/crontab.md) Linux定时任务
-	- [SSL Https](./src/service/ssl_https.md) SSL设置https协议
-	- [Shell](./src/Linux/shell.md) shell编程
-
-5.  [MYSQL](src/Linux/README.md "MYSQL") 
-    - [mysql Import and export](./src/mysql/base.md) 数据库基本操作
-    - [mysql CRUD](./src/mysql/crud.md) 数据库增删改查
-	- [mysql Import and export](./src/mysql/mysql.md) 数据库导入导出操作
-	- [mysql Error](./src/mysql/mysql_error.md) 数据库常见错误
-	- [Import Field](./src/mysql/mysql_error.md) Table导出字段和注释
-	- [Mysql Function](./src/mysql/mysql_function.md) 数据库自带常用函数
-
-6.  [phpstorm](./src/phpstorm/phpstorm.md "phpstorm")
-    - [phpstorm](./src/phpstorm/phpstorm.md) 快捷键
-
-7.  [document](src/Linux/README.md "document")
-	- [document](./src/studyUrl.md) 文档相关链接
-
-8.  [GO](src/Go/README.md "document")
+3.  [GO](src/Go/README.md "document")
     - [Basic](src/Go/Basic/basic.md) 基础知识
         - [Basic](src/Go/Base/base.md) 基础知识
         - [Go Compile](src/Go/Base/compile.md) GO编译运行
@@ -130,8 +94,54 @@
         - [File Write](src/Go/File/write.md) 文件写操作 
         
     - [Time](src/Go/Time)时间
-        - [Time](src/Go/Time/time.md) 文件读操作  
-       
+        - [Time](src/Go/Time/time.md) 文件读操作 
+        
+4.  [java](src/Java/Read.md) 
+    - [Basic](src/Java/Base) 基础知识
+        - [Scanner](src/Java/scanner.md) 键盘录入
+        - [String](src/Java/string.md) 字符串
+        - [Array](src/Java/array.md) 数组
+    - [Object](src/Java/Object)对象
+        - [Object](src/Java/day05.md) 面向对象的思想
+        - [Create Object](src/Java/day06.md) 对象的创建、static
+        - [Object Extends](src/Java/day07.md) 面向对象继承
+        - [Object State](src/Java/day08.md) 多态、抽象、接口
+        - [Package](src/Java/day09.md) 包
+        - [Eclipse](src/Java/day10.md) eclipse
+
+5.  [MYSQL](src/Linux/README.md "MYSQL") 
+    - [mysql Import and export](./src/mysql/base.md) 数据库基本操作
+    - [mysql CRUD](./src/mysql/crud.md) 数据库增删改查
+	- [mysql Import and export](./src/mysql/mysql.md) 数据库导入导出操作
+	- [mysql Error](./src/mysql/mysql_error.md) 数据库常见错误
+	- [Import Field](./src/mysql/mysql_error.md) Table导出字段和注释
+	- [Mysql Function](./src/mysql/mysql_function.md) 数据库自带常用函数
+
+6.  [Linux](src/Linux/README.md "Linux")
+    - [Base](./src/Linux/base.md) 基础知识
+	- [macdown](./src/Markdown-Syntax-CN-master/syntax.md) Macdown相关
+	- [Mac Shortcuts](src/Linux/mac_instruct.md) Mac常用快捷键
+	- [Mac Shortcuts](src/Linux/mac_connect_service_error.md) Mac连接服务器报错
+	- [MAMP](./src/service/mac_install_apache_php.md) Mac安装apache
+	- [MNMP](./src/service/mac_install_nginx_php.md) Mac安装nginx
+	- [LNMP](./src/Linux/install_lnmp.md) Linux安装nginx
+	- [LNMP](./src/service/ssh_login_service.md) 登陆服务器的shell脚本
+	- [LNMP](./src/service/Linux_install_rz.md) Linux安装支持rz和sz的服务
+	- [File Transmission](./src/Linux/UploadFile.md) 服务器文件和本地之间的传输
+	- [Crontab Set](./src/service/crontab.md) Linux定时任务
+	- [SSL Https](./src/service/ssl_https.md) SSL设置https协议
+	- [Shell](./src/Linux/shell.md) shell编程
+
+7.  [GIT](src/git/base.md "PHP")
+     - [Basic](src/git/base.md) 基础和常用
+	 - [Crlf Error](./src/git/git_crlf.md) crlf报错解决
+	 - [Code Commit](./src/git/git_base.md) git代码提交
+	 - [Github Operation](./src/git/github.md) github常用操作
+	 - [Git Error](./src/git/composer_error.md) git常见错误 
+    
+8.  [phpstorm](./src/phpstorm/phpstorm.md "phpstorm")
+    - [phpstorm](./src/phpstorm/phpstorm.md) 快捷键
+
         
 9.  [Article](src/Linux/README.md "document") Chicken soup 鸡汤
 	- [Chicken soup](./src/Article/ClassicSayings.md) 优秀励志语句      
@@ -154,25 +164,18 @@
     - [List](./src/Redis/list.md) 列表实现队列和栈的性能
     - [Study URL](./src/Redis/list.md) redis学习地址
 
-15. [English](english)
+15.  [document](src/Linux/README.md "document")
+	- [document](./src/studyUrl.md) 文档相关链接
+
+16. [composer](src/Composer/composer.md)
+    - [Comsoser Intalls](src/Composer/composer.md) composer基本操作   
+
+17. [English](english)
     - [daily sentence](./english/daily_sentence.md) 每日一句
     - [Word](./english/word.md) 词汇
 
-16. [health](health)
+18. [health](health)
     - [eye](./health/ear/ear.md) 眼睛保护
 
-17. [java](src/Java/Read.md) 
-    - [Basic](src/Java/Base) 基础知识
-        - [Scanner](src/Java/scanner.md) 键盘录入
-        - [String](src/Java/string.md) 字符串
-        - [Array](src/Java/array.md) 数组
-    - [Object](src/Java/Object)对象
-        - [Object](src/Java/day05.md) 面向对象的思想
-        - [Create Object](src/Java/day06.md) 对象的创建、static
-        - [Object Extends](src/Java/day07.md) 面向对象继承
-        - [Object State](src/Java/day08.md) 多态、抽象、接口
-        - [Package](src/Java/day09.md) 包
-        - [Eclipse](src/Java/day10.md) eclipse
 
-18. [composer](src/Composer/composer.md)
-    - [Comsoser Intalls](src/Composer/composer.md) 眼睛保护
+

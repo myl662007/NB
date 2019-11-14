@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/string.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/base.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/base.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/day11.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/scanner.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/scanner.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="13991" />
+          <entry key="Markdown" value="14032" />
           <entry key="PHP" value="22" />
           <entry key="SQL" value="3" />
         </counts>
@@ -107,8 +102,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="387">
-                <caret line="168" column="30" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+              <first_editor relative-caret-position="4224">
+                <caret line="176" column="2" selection-start-line="176" selection-start-column="2" selection-end-line="176" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -378,21 +373,7 @@
       <workItem from="1573356514700" duration="2512000" />
       <workItem from="1573542640687" duration="7679000" />
       <workItem from="1573632977975" duration="2286000" />
-      <workItem from="1573703763196" duration="3243000" />
-    </task>
-    <task id="LOCAL-00022" summary="note">
-      <created>1561567214020</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1561567214020</updated>
-    </task>
-    <task id="LOCAL-00023" summary="note">
-      <created>1561628574066</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1561628574066</updated>
+      <workItem from="1573703763196" duration="3679000" />
     </task>
     <task id="LOCAL-00024" summary="note">
       <created>1561771264635</created>
@@ -723,17 +704,31 @@
       <option name="project" value="LOCAL" />
       <updated>1573704273404</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="note">
+      <created>1573714712292</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1573714712292</updated>
+    </task>
+    <task id="LOCAL-00072" summary="note">
+      <created>1573714823753</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1573714823753</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182138000" />
+    <option name="totallyTimeSpent" value="182574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.19593614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.18287373" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1227,8 +1222,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="387">
-            <caret line="168" column="30" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+          <first_editor relative-caret-position="4224">
+            <caret line="176" column="2" selection-start-line="176" selection-start-column="2" selection-end-line="176" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
