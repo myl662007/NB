@@ -18,7 +18,6 @@
 
 	A:Java语言发展史
 		詹姆斯·高斯林（James Gosling）
-		1977年获得了加拿大卡尔加里大学计算机科学学士学位，1983年获得了美国卡内基梅隆大学计算机科学博士学位，毕业后到IBM工作，设计IBM第一代工作站NeWS系统，但不受重视。后来转至Sun公司，1990年，与Patrick，Naughton和Mike Sheridan等人合作“绿色计划”，后来发展一套语言叫做“Oak”，后改名为Java。Sun公司现在被Oracle公司给收购了。
 
 	B:Java语言平台版本 
 		J2SE(Java 2(to) Platform Standard Edition)标准版
@@ -29,8 +28,6 @@
 		J2EE(Java 2 Platform Enterprise Edition)企业版
 			是为开发企业环境下的应用程序提供的一套解决方案
 			该技术体系中包含的技术如 Servlet、Jsp等，主要针对于Web应用程序开发
-
-		jdk1.5以后，我们将其更名为： JAVASE , JAVAME , JAVAEE
 
 	C:Java语言特点
 			简单性		解释性
@@ -103,21 +100,6 @@
 	d:include目录：由于JDK是通过C和C++实现的，因此在启动时需要引入一些C语言的头文件，该目录就是用于存放这些头文件的。
 	e:lib目录：lib是library的缩写，意为 Java 类库或库文件，是开发工具使用的归档包文件。
 	f:src.zip文件：src.zip为src文件夹的压缩文件，src中放置的是JDK核心类的源代码，通过该文件可以查看Java基础类的源代码。
-
-###01.12_Java语言基础(Java开发工具介绍)(了解)
-
-	A:notepad(微软操作系统自带)
-		其实就是咱们操作系统的中打开.txt文件使用的那个软件
-	B:Editplus/Notepad++
-		是一款高级的文本编辑器，它相对notepad更好用一点。它们对java中的关键字都有颜色的变化，并且还有行号的提示。
-	C:Eclipse
-		是一个IDE,它里面有一些代码提示的功能，相对于前面的开发工具更好用。(免费的)
-	D:MyEclipse
-		和Eclipse相比较更方便，因为myEclipse中集成了很多的插件。(收费的)			
-
-		给大家简单的介绍一下这些工具，然后说说我们使用这些工具的顺序。
-		基础班：先notepad，然后Editplus，再Eclipse。
-		就业班：MyEclipse和Eclipse都用。
 
 ###01.13_Java语言基础(HelloWorld案例的编写和运行)(掌握)
 	

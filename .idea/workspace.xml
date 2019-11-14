@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/function.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/array.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/array.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/base.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/base.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java/day01.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/day01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/day02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/day03.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/scanner.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +32,22 @@
     <session id="461561017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="71" />
+          <entry key="project.closed" value="73" />
           <entry key="project.open.time.0" value="30" />
-          <entry key="project.open.time.1" value="21" />
+          <entry key="project.open.time.1" value="22" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.2" value="8" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="356" />
+          <entry key="Markdown" value="362" />
           <entry key="PHP" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SQL" value="2" />
@@ -56,7 +56,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="12393" />
+          <entry key="Markdown" value="13329" />
           <entry key="PHP" value="22" />
           <entry key="SQL" value="3" />
         </counts>
@@ -65,11 +65,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/Read.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java/day01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="-2683">
+                <caret line="102" selection-start-line="102" selection-end-line="102" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -88,59 +90,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Go/Base/array.md">
+        <entry file="file://$PROJECT_DIR$/src/Java/scanner.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="312">
-                <caret line="13" selection-start-line="13" selection-end-line="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/day01.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-6273">
-                <caret line="46" column="70" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="70" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java/day02.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="490">
-                <caret line="257" column="33" lean-forward="true" selection-start-line="257" selection-start-column="33" selection-end-line="257" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/day03.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="7" selection-start-column="7" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/array.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1080">
-                <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <first_editor relative-caret-position="216">
+                <caret line="9" column="40" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -152,7 +106,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="912">
-                <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+                <caret line="38" selection-start-line="38" selection-end-line="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -163,8 +117,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4008">
-                <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+              <first_editor relative-caret-position="591">
+                <caret line="165" selection-start-line="165" selection-end-line="165" />
               </first_editor>
               <second_editor />
             </state>
@@ -234,8 +188,6 @@
         <option value="$PROJECT_DIR$/src/Go/Function/function.md" />
         <option value="$PROJECT_DIR$/src/Go/Time/time.md" />
         <option value="$PROJECT_DIR$/src/Java/Base/base.md" />
-        <option value="$PROJECT_DIR$/src/Java/day02.md" />
-        <option value="$PROJECT_DIR$/src/Java/day03.md" />
         <option value="$PROJECT_DIR$/src/Java/day05.md" />
         <option value="$PROJECT_DIR$/src/mysql/mysql_function.md" />
         <option value="$PROJECT_DIR$/src/PHP/idnumber.md" />
@@ -250,11 +202,13 @@
         <option value="$PROJECT_DIR$/src/Linux/base.md" />
         <option value="$PROJECT_DIR$/src/Linux/sheel.md" />
         <option value="$PROJECT_DIR$/src/Java/day04.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Java/array.md" />
         <option value="$PROJECT_DIR$/src/Java/function.md" />
         <option value="$PROJECT_DIR$/src/Java/base.md" />
         <option value="$PROJECT_DIR$/src/Java/day01.md" />
+        <option value="$PROJECT_DIR$/src/Java/day03.md" />
+        <option value="$PROJECT_DIR$/src/Java/day02.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -267,9 +221,11 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-109" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -432,21 +388,9 @@
       <workItem from="1572920008348" duration="858000" />
       <workItem from="1573002016928" duration="8587000" />
       <workItem from="1573356514700" duration="2512000" />
-      <workItem from="1573542640687" duration="4924000" />
-    </task>
-    <task id="LOCAL-00019" summary="note">
-      <created>1561452492694</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1561452492694</updated>
-    </task>
-    <task id="LOCAL-00020" summary="note">
-      <created>1561452526654</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1561452526654</updated>
+      <workItem from="1573542640687" duration="7679000" />
+      <workItem from="1573632977975" duration="2286000" />
+      <workItem from="1573703763196" duration="400000" />
     </task>
     <task id="LOCAL-00021" summary="note">
       <created>1561452654064</created>
@@ -777,17 +721,31 @@
       <option name="project" value="LOCAL" />
       <updated>1573367284517</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="note">
+      <created>1573554024313</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1573554024314</updated>
+    </task>
+    <task id="LOCAL-00069" summary="note">
+      <created>1573613525465</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1573613525465</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173854000" />
+    <option name="totallyTimeSpent" value="179295000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1440" y="-109" width="1920" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.04862119" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.20613563" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1209,14 +1167,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Read.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Go/Base/array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1227,22 +1177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/day03.md">
+    <entry file="file://$PROJECT_DIR$/src/Java/Read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4008">
-            <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1257,16 +1195,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/function.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="912">
-            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/day02.md" />
     <entry file="file://$PROJECT_DIR$/src/Java/base.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1277,21 +1206,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/day01.md">
+    <entry file="file://$PROJECT_DIR$/src/Java/scanner.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-6273">
-            <caret line="46" column="70" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="70" />
+          <first_editor relative-caret-position="216">
+            <caret line="9" column="40" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/day02.md">
+    <entry file="file://$PROJECT_DIR$/src/Java/function.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="490">
-            <caret line="257" column="33" lean-forward="true" selection-start-line="257" selection-start-column="33" selection-end-line="257" selection-end-column="33" />
+          <first_editor relative-caret-position="912">
+            <caret line="38" selection-start-line="38" selection-end-line="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="591">
+            <caret line="165" selection-start-line="165" selection-end-line="165" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/day01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2683">
+            <caret line="102" selection-start-line="102" selection-end-line="102" />
           </first_editor>
           <second_editor />
         </state>
