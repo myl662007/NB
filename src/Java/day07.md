@@ -1,14 +1,7 @@
-###day07授课目录：
 
-	代码块
-	继承
-	方法重写与方法重载的区别
-	final关键字
 
 ###07.01_面向对象(代码块的概述和分类)(掌握)
 
-	A:代码块概述
-		在Java中，使用{}括起来的代码被称为代码块。
 	B:代码块分类
 		根据其位置和声明的不同，可以分为局部代码块，构造代码块，静态代码块，同步代码块(多线程讲解)。
 	C:常见代码块的应用
@@ -20,36 +13,7 @@
 			在类中方法外出现，加了static修饰
 			在类中方法外出现，并加上static修饰；用于给类进行初始化，在加载的时候就执行，并且只执行一次。
 
-###07.02_面向对象(代码块的面试题)(掌握)
 
-	A:看程序写结果
-		class Student {
-			static {
-				System.out.println("Student 静态代码块");
-			}
-			
-			{
-				System.out.println("Student 构造代码块");
-			}
-			
-			public Student() {
-				System.out.println("Student 构造方法");
-			}
-		}
-
-		class StudentDemo {
-			static {
-				System.out.println("StudentDemo的静态代码块");
-			}
-			
-			public static void main(String[] args) {
-				System.out.println("我是main方法");
-				
-				Student s1 = new Student();
-				Student s2 = new Student();
-			}
-		}
-	
 ###07.03_面向对象(继承的引入和概述)(掌握)
 
 	A:继承概述
