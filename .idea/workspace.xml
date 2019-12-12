@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/symfony/Case/phpspreadsheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arithmetic/arithmetic.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arithmetic/arithmetic.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +29,8 @@
     <session id="461561017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="84" />
-          <entry key="project.open.time.0" value="31" />
+          <entry key="project.closed" value="85" />
+          <entry key="project.open.time.0" value="32" />
           <entry key="project.open.time.1" value="25" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="11" />
@@ -40,12 +39,12 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="85" />
+          <entry key="project.opened" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="394" />
+          <entry key="Markdown" value="397" />
           <entry key="PHP" value="6" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="SQL" value="2" />
@@ -54,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="16059" />
+          <entry key="Markdown" value="16194" />
           <entry key="PHP" value="89" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SQL" value="3" />
@@ -63,37 +62,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="322">
-                <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+              <first_editor relative-caret-position="300">
+                <caret line="156" column="35" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/symfony/Case/expert.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arithmetic/arithmetic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3336">
-                <caret line="139" selection-start-line="138" selection-end-line="139" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/symfony/Case/phpspreadsheet.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+              <first_editor relative-caret-position="675">
+                <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,8 +103,8 @@
       <find>inclue</find>
       <find>session</find>
       <find>redis</find>
-      <find>算法</find>
       <find>case</find>
+      <find>算法</find>
     </findStrings>
     <replaceStrings>
       <replace>('USERNAME','XM','RYBM','PASSWORD','SALT','CREATEAT','UPDATEAT','IP','LEVEL','ROLEID)</replace>
@@ -136,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/english/word.md" />
-        <option value="$PROJECT_DIR$/src/symfony/Command/console.md" />
         <option value="$PROJECT_DIR$/src/Phone/iphone.md" />
         <option value="$PROJECT_DIR$/Phone/iphone.md" />
         <option value="$PROJECT_DIR$/src/Go/Error/error.md" />
@@ -187,6 +172,8 @@
         <option value="$PROJECT_DIR$/src/PHP/Payment/shahe.md" />
         <option value="$PROJECT_DIR$/src/symfony/Case/phpspreadsheet.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Go/Object/example.md" />
+        <option value="$PROJECT_DIR$/src/Arithmetic/arithmetic.md" />
       </list>
     </option>
   </component>
@@ -199,7 +186,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="840" />
     <option name="height" value="900" />
   </component>
@@ -224,14 +211,7 @@
               <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-              <item name="Case" type="462c0819:PsiDirectoryNode" />
+              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -385,21 +365,8 @@
       <workItem from="1575355279825" duration="3000" />
       <workItem from="1575528687424" duration="6336000" />
       <workItem from="1575874514491" duration="2794000" />
-      <workItem from="1576112832708" duration="1606000" />
-    </task>
-    <task id="LOCAL-00029" summary="note">
-      <created>1563174831858</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1563174831858</updated>
-    </task>
-    <task id="LOCAL-00030" summary="note">
-      <created>1563530660315</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1563530660315</updated>
+      <workItem from="1576112832708" duration="2065000" />
+      <workItem from="1576135050181" duration="52000" />
     </task>
     <task id="LOCAL-00031" summary="note">
       <created>1564623535854</created>
@@ -730,17 +697,31 @@
       <option name="project" value="LOCAL" />
       <updated>1576114094988</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="note">
+      <created>1576114907444</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1576114907444</updated>
+    </task>
+    <task id="LOCAL-00079" summary="note">
+      <created>1576115092049</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1576115092049</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215052000" />
+    <option name="totallyTimeSpent" value="215563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49873737" weight="0.2532656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.23004355" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -797,24 +778,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="note" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Go/Base/processControl.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PHP/Basic/idnumber.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workman.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1192,6 +1155,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Object/example.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/symfony/Case/expert.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1215,8 +1188,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
-            <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <first_editor relative-caret-position="300">
+            <caret line="156" column="35" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arithmetic/arithmetic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="675">
+            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           </first_editor>
           <second_editor />
         </state>
