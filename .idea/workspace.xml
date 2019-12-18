@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PHP/Gongneng/numberToChinese.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/partSchool.md" beforeDir="false" afterPath="$PROJECT_DIR$/project/partSchool.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Markdown-Syntax-CN-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Markdown-Syntax-CN-master/syntax.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PHP/Basic/try_catch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +44,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="415" />
+          <entry key="Markdown" value="416" />
           <entry key="PHP" value="6" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="SQL" value="2" />
@@ -57,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="16341" />
+          <entry key="Markdown" value="16448" />
           <entry key="PHP" value="89" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SQL" value="3" />
@@ -79,12 +75,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PHP/Gongneng/numberToChinese.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="144">
                 <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="432">
+                <caret line="75" column="72" selection-start-line="75" selection-start-column="72" selection-end-line="75" selection-end-column="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -173,11 +181,11 @@
         <option value="$PROJECT_DIR$/src/symfony/composer/composer.md" />
         <option value="$PROJECT_DIR$/src/PHP/Payment/shahe.md" />
         <option value="$PROJECT_DIR$/src/symfony/Case/phpspreadsheet.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Go/Object/example.md" />
         <option value="$PROJECT_DIR$/src/Arithmetic/arithmetic.md" />
         <option value="$PROJECT_DIR$/project/partSchool.md" />
         <option value="$PROJECT_DIR$/src/PHP/Gongneng/numberToChinese.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -221,6 +229,13 @@
               <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="Gongneng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
@@ -394,14 +409,7 @@
       <workItem from="1576316971851" duration="635000" />
       <workItem from="1576376067493" duration="324000" />
       <workItem from="1576390732410" duration="13000" />
-      <workItem from="1576543956564" duration="4759000" />
-    </task>
-    <task id="LOCAL-00033" summary="note">
-      <created>1565411456119</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1565411456119</updated>
+      <workItem from="1576543956564" duration="4919000" />
     </task>
     <task id="LOCAL-00034" summary="note">
       <created>1565755382069</created>
@@ -739,17 +747,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576135138644</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="note">
+      <created>1576660791969</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1576660791969</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226618000" />
+    <option name="totallyTimeSpent" value="226778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.2053701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.24165457" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1071,16 +1086,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="138" column="19" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/symfony/Composer/composer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1216,6 +1221,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="144">
             <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="75" column="72" selection-start-line="75" selection-start-column="72" selection-end-line="75" selection-end-column="72" />
           </first_editor>
           <second_editor />
         </state>

@@ -72,6 +72,9 @@
         - [Time](./src/PHP/Basic/time.md) 常用时间段
         - [IdNumber](./src/PHP/Basic/idnumber.md) 身份证的拆分（踏踏实实干工作，人人真正写代码，端正态度）
         - [Retain Decimal](./src/PHP/Basic/retain_decimal.md) 保留两位小数的方法
+    - [GongNeng](src/PHP/Gongneng) php常用功能
+        - [NumberToChinese](./src/PHP/Gongneng/numberToChinese.md) 数字转中文
+   
     - [Payment](src/PHP/Payment/shahe.md) 支付宝支付
         - [Payment Shahe](./src/PHP/Payment/shahe.md) 沙河测试支付
 
