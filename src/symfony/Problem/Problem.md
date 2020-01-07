@@ -34,3 +34,7 @@
          *              @ORM\Index(name="case_english_name_idx", columns={"english_name"}),
          *              @ORM\Index(name="case_date_idx", columns={"create_at", "update_at"})
          *          })
+
+- twig中富文本标签去掉：
+        
+        {{$data|raw}}

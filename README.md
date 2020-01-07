@@ -40,8 +40,8 @@
         - [Service Download](./src/symfony/ServiceEg/download.md) 文件下载
         - [Service Example](./src/symfony/ServiceEg/README.md) 服务案例（文件上传、下载）
         
-   	- [Error](src/symfony/Error/error.md) 常见错误
-        - [Common Error](./src/symfony/Error/error.md) 常见错误  
+   	- [Proble](src/symfony/Problem/Problem.md) 常见错误
+        - [Common Error](src/symfony/Problem/Problem.md) 常见错误  
               
    	- [Config](src/symfony/Config/firewall.md) 配置
         - [Firewall Config](./src/symfony/Config/firewall.md) 防火墙配置  
