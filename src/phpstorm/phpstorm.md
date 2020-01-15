@@ -34,7 +34,7 @@
 
         command+option+t 用if、for等包住代码块
 
-        alt + / 代码补全
+        alt+/ 代码补全
         
         command + ⬅️➡️ 光标移到当前行首/末
         

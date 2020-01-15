@@ -56,7 +56,7 @@
         <counts>
           <entry key="Markdown" value="16873" />
           <entry key="PHP" value="89" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="SQL" value="3" />
         </counts>
       </usages-collector>
@@ -80,8 +80,8 @@
         <entry file="file://$PROJECT_DIR$/src/phpstorm/phpstorm.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="675">
-                <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              <first_editor relative-caret-position="581">
+                <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -386,14 +386,7 @@
       <workItem from="1578270804486" duration="5919000" />
       <workItem from="1578555903264" duration="4374000" />
       <workItem from="1578903928380" duration="613000" />
-      <workItem from="1579052851558" duration="1429000" />
-    </task>
-    <task id="LOCAL-00037" summary="note">
-      <created>1566287687310</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1566287687310</updated>
+      <workItem from="1579052851558" duration="1512000" />
     </task>
     <task id="LOCAL-00038" summary="note">
       <created>1566307635950</created>
@@ -731,11 +724,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578903941795</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="phpstorm">
+      <created>1579055250583</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1579055250583</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245831000" />
+    <option name="totallyTimeSpent" value="245914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -796,7 +796,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="note" />
     <MESSAGE value="twig" />
-    <option name="LAST_COMMIT_MESSAGE" value="twig" />
+    <MESSAGE value="phpstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="phpstorm" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Java/day01.md" />
@@ -1209,8 +1210,8 @@
     <entry file="file://$PROJECT_DIR$/src/phpstorm/phpstorm.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="675">
-            <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <first_editor relative-caret-position="581">
+            <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
