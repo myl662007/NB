@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/partSchool.md" beforeDir="false" afterPath="$PROJECT_DIR$/project/partSchool.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phpstorm/phpstorm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/phpstorm/phpstorm.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,23 +29,23 @@
     <session id="461561017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="101" />
+          <entry key="project.closed" value="102" />
           <entry key="project.open.time.0" value="36" />
           <entry key="project.open.time.1" value="28" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="16" />
+          <entry key="project.open.time.2" value="17" />
           <entry key="project.open.time.3" value="8" />
-          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="101" />
+          <entry key="project.opened" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="426" />
+          <entry key="Markdown" value="427" />
           <entry key="PHP" value="6" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="SQL" value="2" />
@@ -54,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="16659" />
+          <entry key="Markdown" value="16873" />
           <entry key="PHP" value="89" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="SQL" value="3" />
@@ -64,12 +64,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/partSchool.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="144">
-                <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="74" />
+                <caret line="6" column="74" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="74" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/phpstorm/phpstorm.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="675">
+                <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Thinkphp/thinkphp5/redis.md" />
         <option value="$PROJECT_DIR$/src/Thinkphp/thinkphp5/thinkphp5.md" />
         <option value="$PROJECT_DIR$/src/PHP/array_function.md" />
         <option value="$PROJECT_DIR$/health/ear/ear.md" />
@@ -163,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/symfony/Problem/Problem.md" />
         <option value="$PROJECT_DIR$/src/symfony/Twig/twig.md" />
         <option value="$PROJECT_DIR$/project/partSchool.md" />
+        <option value="$PROJECT_DIR$/src/phpstorm/phpstorm.md" />
       </list>
     </option>
   </component>
@@ -175,8 +187,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="380" />
+    <option name="y" value="96" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -195,32 +208,13 @@
             <path>
               <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-              <item name="Twig" type="462c0819:PsiDirectoryNode" />
+              <item name="phpstorm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,13 +385,8 @@
       <workItem from="1578034539928" duration="807000" />
       <workItem from="1578270804486" duration="5919000" />
       <workItem from="1578555903264" duration="4374000" />
-    </task>
-    <task id="LOCAL-00036" summary="note">
-      <created>1566286606858</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1566286606858</updated>
+      <workItem from="1578903928380" duration="613000" />
+      <workItem from="1579052851558" duration="1429000" />
     </task>
     <task id="LOCAL-00037" summary="note">
       <created>1566287687310</created>
@@ -735,17 +724,24 @@
       <option name="project" value="LOCAL" />
       <updated>1578381866465</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="twig">
+      <created>1578903941794</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1578903941795</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243789000" />
+    <option name="totallyTimeSpent" value="245831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49873737" weight="0.1712627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.18650217" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -803,16 +799,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="twig" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java/function.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="912">
-            <caret line="38" selection-start-line="38" selection-end-line="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/day01.md" />
     <entry file="file://$PROJECT_DIR$/src/Java/day11.md" />
     <entry file="file://$PROJECT_DIR$/src/Article/ClassicSayings.md">
@@ -1214,7 +1200,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="144">
-            <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="74" />
+            <caret line="6" column="74" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="74" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phpstorm/phpstorm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="675">
+            <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
