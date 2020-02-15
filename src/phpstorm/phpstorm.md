@@ -41,3 +41,7 @@
         option + ⬅️➡️ 光标移到当前单词首/末
         
         command + option + ⬅️➡️ 退回到上/下一个操作的地方
+
+激活phpstorm
+    
+        https://blog.csdn.net/ljl890705/article/details/90577452

@@ -5,3 +5,7 @@
 2.换行符：\n
 
 3.
+
+##常用操作
+
+- 跨系统生成编译文件：go build -o hello.exe hello.go

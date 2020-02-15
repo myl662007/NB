@@ -1,5 +1,8 @@
 ##省委党校项目
 
+- 线上地址
+    
+        
 - 常用命令
 
         加载菜单：php bin/console menu:load
@@ -24,3 +27,17 @@
 - 常用电话存到配置中
         
 - class     
+
+- 研究生管理
+    
+        user前端用户表
+        
+        在线报名：graduate_sign_up在线报名
+                graduate_duty_rank职级表
+
+- 系统管理-配置管理-添加配置
+
+        位置：configBundle-DataFixtures-ConfigFixture.php
+        php bin/console doctrine:fixtures:load --append
+        
+        
