@@ -41,3 +41,7 @@
         php bin/console doctrine:fixtures:load --append
         
         
+涉及到的系统函数：
+    
+        array_keys()
+        array_walk()

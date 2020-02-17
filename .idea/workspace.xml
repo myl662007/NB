@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="phpstorm">
-      <change afterPath="$PROJECT_DIR$/project/niushop.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linux/mac_php_environment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/symfony/ReadMe.md" afterDir="false" />
+    <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/partSchool.md" beforeDir="false" afterPath="$PROJECT_DIR$/project/partSchool.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Go/Error/error.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go/Error/error.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phpstorm/phpstorm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/phpstorm/phpstorm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Go/Base/compile.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go/Base/command.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Go/Base/var.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go/Base/var.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="457" />
+          <entry key="Markdown" value="473" />
           <entry key="PHP" value="8" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="SQL" value="2" />
@@ -61,7 +59,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="18197" />
+          <entry key="Markdown" value="18262" />
           <entry key="PHP" value="89" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="SQL" value="3" />
@@ -71,12 +69,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Linux/mac_php_environment.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Go/Base/base.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="507">
-                <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+              <first_editor relative-caret-position="144">
+                <caret line="6" selection-start-line="5" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,11 +82,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Go/Error/error.md">
+        <entry file="file://$PROJECT_DIR$/src/Go/Base/command.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <first_editor relative-caret-position="48">
+                <caret line="2" column="27" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,19 +94,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/partSchool.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-21">
-                <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Go/Base/yunsuanfu.md">
+        <entry file="file://$PROJECT_DIR$/src/Go/Base/date.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -118,10 +104,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Go/Base/escaped.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Go/Base/var.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="384">
+                <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Go/Base/json.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Go/Base/processControl.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="249">
+                <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -164,8 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Go/Function/function.md" />
-        <option value="$PROJECT_DIR$/src/Go/Time/time.md" />
         <option value="$PROJECT_DIR$/src/Java/Base/base.md" />
         <option value="$PROJECT_DIR$/src/mysql/mysql_function.md" />
         <option value="$PROJECT_DIR$/src/PHP/idnumber.md" />
@@ -205,7 +233,6 @@
         <option value="$PROJECT_DIR$/src/Go/Object/example.md" />
         <option value="$PROJECT_DIR$/src/Arithmetic/arithmetic.md" />
         <option value="$PROJECT_DIR$/src/PHP/Gongneng/numberToChinese.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/symfony/Problem/Problem.md" />
         <option value="$PROJECT_DIR$/src/symfony/Twig/twig.md" />
         <option value="$PROJECT_DIR$/project/niushop.md" />
@@ -213,8 +240,11 @@
         <option value="$PROJECT_DIR$/src/Go/Error/error.md" />
         <option value="$PROJECT_DIR$/src/phpstorm/phpstorm.md" />
         <option value="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" />
-        <option value="$PROJECT_DIR$/project/partSchool.md" />
         <option value="$PROJECT_DIR$/src/Linux/mac_php_environment.md" />
+        <option value="$PROJECT_DIR$/project/partSchool.md" />
+        <option value="$PROJECT_DIR$/src/Go/Base/base.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Go/Base/var.md" />
       </list>
     </option>
   </component>
@@ -249,11 +279,6 @@
             <path>
               <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -268,53 +293,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Go" type="462c0819:PsiDirectoryNode" />
               <item name="Base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="Error" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="File" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="Function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="Object" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="Time" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheat sheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheat sheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="phpstorm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -499,14 +477,7 @@
       <workItem from="1581680586936" duration="491000" />
       <workItem from="1581682413769" duration="522000" />
       <workItem from="1581685620471" duration="333000" />
-      <workItem from="1581736034727" duration="442000" />
-    </task>
-    <task id="LOCAL-00039" summary="note">
-      <created>1566310629698</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1566310629698</updated>
+      <workItem from="1581736034727" duration="3507000" />
     </task>
     <task id="LOCAL-00040" summary="note">
       <created>1566358944881</created>
@@ -844,17 +815,24 @@
       <option name="project" value="LOCAL" />
       <updated>1579055416919</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="phpstorm">
+      <created>1581736496052</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1581736496052</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268233000" />
+    <option name="totallyTimeSpent" value="271298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49873737" weight="0.115384616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.22206096" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -914,65 +892,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="phpstorm" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java/object.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="89" column="8" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Read.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health/ear/ear.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-783">
-            <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phone/iphone.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1064">
-            <caret line="161" column="51" selection-start-line="161" selection-start-column="51" selection-end-line="161" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/english/word.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="576">
-            <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/english/daily_sentence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="312">
-            <caret line="13" selection-start-line="13" selection-end-line="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/today.php" />
     <entry file="file://$PROJECT_DIR$/today/20191205.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1026,16 +945,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="96">
             <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="87" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/symfony/Command/console.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1104">
-            <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>
@@ -1179,22 +1088,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/symfony/Command/command.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/symfony/Command/command_example.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/symfony/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1208,16 +1101,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="504">
             <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="135" column="10" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
@@ -1287,14 +1170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Go/tcp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1302,11 +1177,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Go/Error/error.md">
+    <entry file="file://$PROJECT_DIR$/src/Linux/mac_php_environment.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <first_editor relative-caret-position="507">
+            <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
@@ -1320,7 +1195,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Go/Base/var.md">
+    <entry file="file://$PROJECT_DIR$/src/Go/Error/error.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symfony/Command/console.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="65">
+            <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symfony/Command/command_example.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symfony/Command/command.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/tcp.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1331,18 +1250,80 @@
     <entry file="file://$PROJECT_DIR$/project/partSchool.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-21">
-            <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <first_editor relative-caret-position="651">
+            <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Linux/mac_php_environment.md">
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/base.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="507">
-            <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+          <first_editor relative-caret-position="144">
+            <caret line="6" selection-start-line="5" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="249">
+            <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/command.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="27" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/date.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/escaped.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/json.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/processControl.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Go/Base/var.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>

@@ -80,9 +80,9 @@
 
 
 3.  [GO](src/Go/README.md "document")
-    - [Basic](src/Go/Basic/basic.md) 基础知识
+    - [Basic](src/Go/Base/base.md) 基础知识
         - [Basic](src/Go/Base/base.md) 基础知识
-        - [Go Compile](src/Go/Base/compile.md) GO编译运行
+        - [Go Command](src/Go/Base/command.md) GO编译运行
         - [Go Escaped](src/Go/Base/escaped.md) 转义字符、注释、代码格式化 
         - [Data Type](src/Go/Base/var.md) 数据类型 
         - [Operator](src/Go/Base/yunsuanfu.md) 运算符
