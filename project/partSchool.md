@@ -2,7 +2,7 @@
 
 - 线上地址
     
-        
+## 命令       
 - 常用命令
 
         加载菜单：php bin/console menu:load
@@ -26,8 +26,7 @@
         
 - 常用电话存到配置中
         
-- class     
-
+##项目
 - 研究生管理
     
         user前端用户表
@@ -45,3 +44,37 @@
     
         array_keys()
         array_walk()
+        strpos($className, ':')获取参数2在参数1中，第一次出现的位置
+
+## 功能
+- 人员选择
+        
+        twig方法：research_select_html（$entity, $groupName = '', $selectType = '', $isWrite = true, $btnAttrs = [], $isAutoSave = true, $style = 0）
+            参数：$entity 可以传实体对象，也可以传字符串（twig中new了一个对象）
+                 $groupName 组名，区分多种类型实体
+                 $selectType
+                 $isWrite
+                 $btnAttrs
+                 $isAutoSave
+                 $style
+                 
+- twig如何引入service
+        
+        $this->selectUserOrDepartmentService = $this->container->get('research.select_user_or_department_service');
+
+- PHP中static::class用来获取父类
+
+- 密码设置
+    
+        /**
+         *
+         * @var \Symfony\Component\Security\Core\Encoder\UserPasswordEncoder $encoder
+         */
+        $encoder = $this->container->get('security.password_encoder');
+        if (empty($password) || strlen($password)==0) {
+            $password = 'lcp@0578';
+        }
+        $password = $encoder->encodePassword($user, $password);
+        $user->setPassword($password);
+        $salt = uniqid();
+        $user->setSalt($salt);

@@ -38,3 +38,7 @@
 - twig中富文本标签去掉：
         
         {{$data|raw}}
+
+- 多个数据库时创建数据库
+        
+          php bin/console doctrine:database:create --connection=rtu
