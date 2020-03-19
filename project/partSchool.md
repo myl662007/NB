@@ -78,3 +78,7 @@
         $user->setPassword($password);
         $salt = uniqid();
         $user->setSalt($salt);
+
+- 配置：
+    
+        
