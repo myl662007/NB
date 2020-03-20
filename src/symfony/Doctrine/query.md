@@ -201,6 +201,27 @@
                 ->getQuery()->getResult();
         }
 
+- count
+        
+        //注意分组的时候count()中一定不能有单引号，否则查询出来的都是1
+        public function getTeachersByIsShow($isShow='',$teacherName='')
+        {
+            $qb = $this->createQueryBuilder('a')
+                ->select("a.name,u.id,a.duties,a.dutyRank,a.departmentName,count(c.id) as number")
+                ->leftJoin('TrainBundle:Classes', 'u', 'WITH', 'a.id = u.teacherId')
+                ->leftJoin('TrainBundle:Student', 'c', 'WITH', 'c.classId = u.id');
+            if (!empty($isShow)) {
+                $qb->andWhere('a.isShow = :isShow')
+                    ->setParameter('isShow', $isShow);
+            }
+            if (!empty($teacherName)) {
+                $qb->andWhere($qb->expr()->like('a.name', ':name'))
+                    ->setParameter('name', '%'. $teacherName. '%');
+            }
+            return $qb->groupBy('a.id')->getQuery()
+                ->getArrayResult();
+        }
+
 ## Controller
 
 - delete
