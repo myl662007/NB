@@ -41,4 +41,49 @@
 
 - 多个数据库时创建数据库
         
-          php bin/console doctrine:database:create --connection=rtu
+        php bin/console doctrine:database:create --connection=rtu
+
+- 分页：
+        
+        传统分页：
+            /**
+             * 得到分页对象 , 需传入Query
+             * 
+             * @param null $pageNum
+             *            每页显示条数,默认15条
+             * @param \Doctrine\ORM\Query|mixed $query
+             *            - anything what needs to be paginated
+             * @return \Knp\Component\Pager\Pagination\PaginationInterface
+             */
+            protected function getPagination(Query $query, $pageNum = null, array $options = array())
+            {
+                $request = $this->get('request_stack')->getCurrentRequest();
+                $pageSize = $request->query->getInt('pageSize');
+                $page = $request->query->getInt('page');
+                
+                if (empty($pageSize))
+                    $pageSize = empty($pageNum) ? 15 : $pageNum;
+                if (empty($page))
+                    $page = 1;
+                
+                $paginator = $this->get('knp_paginator');
+                
+                $redisService = $this->get('snc_redis.default');
+                
+                $sqlKey = 'paginator_' . md5($query->getDQL()).'_' . md5(serialize($query->getParameters()->getValues())) . '_' . md5($query->getEntityManager()->getFilters()->getHash());
+                $count = 0;
+                if($redisService->exists($sqlKey)){
+                    $count = $redisService->get($sqlKey);
+                    $query->setHint('knp_paginator.count', $count);
+                }
+                $paginate = $paginator->paginate($query, $page, $pageSize, $options);
+                $totalCount = $paginate->getTotalItemCount();
+                if(empty($count) && !empty($totalCount)) {
+                    $redisService->set($sqlKey, $totalCount, 7200);
+                }
+                return $paginate;
+            }
+            
+        需要处理：
+                $paginator = $this->get('knp_paginator');
+                $pagination = $paginator->paginate($teachers);
