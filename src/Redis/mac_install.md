@@ -71,3 +71,21 @@ https://blog.csdn.net/moliyiran/article/details/78816291
 extension_dir = "/usr/local/php/lib/php/extensions/no-debug-zts-20090626"  #地址中写 make install 返回的地址
 
 extension=redis.so
+
+##redis错误操作
+- redis配置文件
+        
+        /usr/local/Cellar/redis/5.0.5/bin
+        
+- 重新启动redis
+        
+        ./redis-server
+- 关闭redis
+        
+        查看进程号：
+        ps -ef | grep -i redis
+        杀死进程：
+        kill -9 进程号
+        
+        
+        
