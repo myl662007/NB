@@ -34,3 +34,10 @@
 
 - php bin/console api:pull
     
+##相关命令：
+ 
+- 命令：
+        
+        生成用户：php bin/console rbac:create:user -u admin -p lcp@0578
+        
+        上面导航：php bin/console doctrine:fixtures:load --append

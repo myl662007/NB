@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f8bbffd-1a2b-4163-9374-43b5d7eb7db9" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/symfony/Problem/Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/symfony/Problem/Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/yumenkou.md" beforeDir="false" afterPath="$PROJECT_DIR$/project/yumenkou.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,26 +29,27 @@
     <session id="461561017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="127" />
+          <entry key="project.closed" value="128" />
           <entry key="project.open.time.0" value="38" />
-          <entry key="project.open.time.1" value="32" />
+          <entry key="project.open.time.1" value="33" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="25" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="11" />
           <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="129" />
+          <entry key="project.opened" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="521" />
+          <entry key="Markdown" value="522" />
           <entry key="PHP" value="9" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="SQL" value="2" />
@@ -57,7 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="19645" />
+          <entry key="Markdown" value="19693" />
           <entry key="PHP" value="89" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="SQL" value="3" />
@@ -66,25 +67,13 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/partSchool.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1269">
-                <caret line="7" column="38" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="38" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/symfony/Problem/Problem.md">
+        <entry file="file://$PROJECT_DIR$/project/yumenkou.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="942">
-                <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+              <first_editor relative-caret-position="262">
+                <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -182,8 +171,8 @@
         <option value="$PROJECT_DIR$/src/Linux/linuxStudy01.md" />
         <option value="$PROJECT_DIR$/project/partSchool.md" />
         <option value="$PROJECT_DIR$/src/symfony/Doctrine/query.md" />
-        <option value="$PROJECT_DIR$/project/yumenkou.md" />
         <option value="$PROJECT_DIR$/src/symfony/Problem/Problem.md" />
+        <option value="$PROJECT_DIR$/project/yumenkou.md" />
       </list>
     </option>
   </component>
@@ -196,9 +185,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="更新" />
@@ -208,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -434,14 +424,9 @@
       <workItem from="1583742265510" duration="2112000" />
       <workItem from="1584003494944" duration="6086000" />
       <workItem from="1584491835866" duration="4215000" />
-      <workItem from="1584925391376" duration="2151000" />
-    </task>
-    <task id="LOCAL-00045" summary="note">
-      <created>1566987869041</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1566987869041</updated>
+      <workItem from="1584925391376" duration="2163000" />
+      <workItem from="1584933881328" duration="1796000" />
+      <workItem from="1585015576513" duration="547000" />
     </task>
     <task id="LOCAL-00046" summary="note">
       <created>1567075295778</created>
@@ -779,17 +764,24 @@
       <option name="project" value="LOCAL" />
       <updated>1584699688845</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="phpstorm">
+      <created>1584932890980</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1584932890980</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298235000" />
+    <option name="totallyTimeSpent" value="300590000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.1574746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.18577649" />
       <window_info id="Structure" order="1" sideWeight="0.5012626" side_tool="true" weight="0.17706822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1211,16 +1203,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/yumenkou.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/symfony/Doctrine/query.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1268,7 +1250,7 @@
     <entry file="file://$PROJECT_DIR$/project/partSchool.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1269">
+          <first_editor relative-caret-position="78">
             <caret line="7" column="38" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="38" />
           </first_editor>
           <second_editor />
@@ -1278,8 +1260,18 @@
     <entry file="file://$PROJECT_DIR$/src/symfony/Problem/Problem.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="942">
+          <first_editor relative-caret-position="1678">
             <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/yumenkou.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="262">
+            <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
