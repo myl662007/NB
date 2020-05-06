@@ -107,3 +107,6 @@
                 $result[]=$val;
             }
         }
+9. 二维数组以某个字段求和
+
+        $sum = array_sum(array_map(create_function('$val', 'return $val["water"];'), $stationDayPlan));
