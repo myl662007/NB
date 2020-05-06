@@ -221,7 +221,15 @@
             return $qb->groupBy('a.id')->getQuery()
                 ->getArrayResult();
         }
+- group
 
+        数据查询分组：
+        $qb = $this->createQueryBuilder('a')
+            ->select("sum(a.water) as water,a.waterDay");
+        $qb->where('a.appearId=:appearId')
+            ->setParameter('appearId',$appearId);
+        return $qb->groupBy('a.waterDay')
+            ->getQuery()->getArrayResult();
 ## Controller
 
 - delete
